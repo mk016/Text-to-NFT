@@ -1,20 +1,20 @@
 
-# Tech Hacks 3.0
+# lnmhacks6.0
 
 ## AI NFT GENERATOR
 Generate NFTs just with few clicks
 Enter text to get a image and then generate NFTs
 of that image.
 
-- Website link 👉 https://ai-nft-minter.web.app/
-- PPT Link 👉 https://drive.google.com/file/d/1jjuuahOr4qpcu_AwvSxA7rRnV7j2PWXB/view
+- Website link 👉 
+- PPT Link 👉 
 
-# Team - Open Source
+# Team - HackBox
 ## Team Member
-- Pritam Kumar
-- Srishti Kumar
-- Sadhvi
-
+Mahendra Kumawat
+kartik mehta
+kartikey singhal
+manish vaishnav
 ## Tech Stack
 
 **Client:** React, Vite, TailwindCSS
@@ -26,7 +26,7 @@ of that image.
 
 ### Clone project 
 ```
-git clone https://github.com/developer-pritam/TechHacks3.0.git
+git clone https://github.com/mk016/Text-to-NFT
 ```
 
 ### Front End
