@@ -21,7 +21,7 @@ export const WalletProvider = ({ children }) => {
     }
     setIsPhantomInstalled("YES");
 
-    toast.error("Please install Phantom wallet");
+    // toast.error("Please install Phantom wallet");
     // window.open("https://phantom.app/", "_blank");
     return null;
   };
