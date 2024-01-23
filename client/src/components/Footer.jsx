@@ -30,7 +30,7 @@ const Footer = () => (
       <p className="text-white text-sm text-center">
         Generate NFTs just by typing few words
       </p>
-      <a href="mailto:hello@developerpritam.in" target="blank">
+      <a href="https://hello.mahendrakumar25.repl.co/" target="blank">
         <p className="text-white text-sm text-center font-medium mt-2">
           Mahendrakumawat80224@gmail.com
         </p>
@@ -40,7 +40,7 @@ const Footer = () => (
     <div className="sm:w-[90%] w-full h-[0.25px] bg-gray-400 mt-5 " />
 
     <div className="sm:w-[90%] w-full flex justify-between items-center mt-3">
-      <a href="#" target="blank">
+      <a href="https://hello.mahendrakumar25.repl.co/" target="blank">
         <p className="text-white text-left text-xs">@developerMk016</p>
       </a>
       <p className="text-white text-right text-xs">All rights reserved</p>
