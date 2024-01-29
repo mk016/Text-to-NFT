@@ -12,9 +12,9 @@ of that image.
 # Team - HackBox
 ## Team Member
 Mahendra Kumawat
-kartik mehta
-kartikey singhal
-manish vaishnav
+Kartik Mehta
+Kartikey Singhal
+Manish Vaishnav
 ## Tech Stack
 
 **Client:** React, Vite, TailwindCSS
