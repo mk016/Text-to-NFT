@@ -19,7 +19,7 @@ Manish Vaishnav
 
 **Client:** React, Vite, TailwindCSS
 
-**Server:** Solana Blockchain, Metaplex, Node, Express, Firebase function, Firebase Storage
+**Server:** Solana Blockchain, Metaplex, Node, Express, Firebase function, Firebase Storage.
 
 
 ## Installation
