@@ -17,7 +17,7 @@ Kartikey Singhal
 Manish Vaishnav
 ## Tech Stack
 
-**Client:** React, Vite, TailwindCSS
+**Client:** React, Vite, TailwindCSS JavaScript
 
 **Server:** Solana Blockchain, Metaplex, Node, Express, Firebase function, Firebase Storage.
 
